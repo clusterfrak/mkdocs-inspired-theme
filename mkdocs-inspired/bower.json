@@ -1,0 +1,21 @@
+{
+  "name": "mkdocs-inspired",
+  "authors": [
+    "Richard C. Nason <rnason@atlantean.io>"
+  ],
+  "description": "Mkdocs theme inspired by bootswatch flatly",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slidebars": "^2.0.2",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}

@@ -1,0 +1,9 @@
+site_name: MkDocs Inspired Theme
+site_url: https://github.com/rnason/mkdocs-inspired.git
+site_description: MkDocs Jinks Themes
+site_author: Richard Nason
+repo_url: https://github.com/rnason/mkdocs-inspired.git
+copyright: Copyright &copy; 2016 Richard Nason
+
+pages:
+  - Home: 'index.md'
